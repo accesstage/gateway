@@ -5,7 +5,7 @@ date:   2017-04-04 20:07:00
 author: rodrigomelgar
 ---
 
-### Proposta de criação de gateway - accesstage
+### Homologação - accesstage
 
 Olá,
 
