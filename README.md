@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  como fazer um gateway.
+title:  como fazer uma proposta.
 date:   2017-04-04 20:07:00
 author: rodrigomelgar
 ---
@@ -9,7 +9,7 @@ author: rodrigomelgar
 
 Olá,
 
-Se você esta lendo isso, sua empresa foi selecionada para participar da proposta de gateway accesstage. A seguir, descrevo uma série de pré-requisitos para trabalhar conosco :)
+Se você esta lendo isso, sua empresa foi selecionada para participar da proposta de accesstage. A seguir, descrevo uma série de pré-requisitos para trabalhar conosco :)
 
 Estamos saindo de um mundo middleware proprietário e em migração para um mundo de micro-serviços.
 
@@ -33,7 +33,7 @@ Como optamos por utilizar o SpringCloud aqui, queremos times com uma ampla exper
 ### Docker
 A ideia aqui é micro-serviço mesmo, docker's bem enxutos conversando entre si via rest! sem mega container
 
-### YAML OR JSON
+### YAML OR JSONgateway
 Todo container deverá ter um yaml (ou json), pois iremos deployar ele usando dashboard do kubernets
 
 ### Kubernets
